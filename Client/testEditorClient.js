@@ -34,8 +34,8 @@ document.getElementById("sendbutton").addEventListener("click", function()
 										updateText(xhr.responseText);
 									}
 								};
-						xhr.open("POST","http://127.0.0.1:8080/", true);
-						//xhr.open("POST","http://128.104.191.51:8080/", true);
+						//xhr.open("POST","http://127.0.0.1:8080/", true);
+						xhr.open("POST","http://128.104.191.51:8080/", true);
 						xhr.send(editor.getValue());
 					}
 );
