@@ -1,0 +1,16 @@
+{
+  "name": "DBtest",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "dbtest.js",
+  "dependencies": {
+    "level": "~0.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD"
+}
