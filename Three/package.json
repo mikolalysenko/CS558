@@ -1,0 +1,16 @@
+{
+  "name": "Three",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "Stats.js",
+  "dependencies": {
+    "three": "~0.58.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD"
+}

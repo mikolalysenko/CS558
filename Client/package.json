@@ -1,0 +1,16 @@
+{
+  "name": "Client",
+  "version": "0.0.0",
+  "description": "CS558 Web Client",
+  "main": "testEditorClient.js",
+  "dependencies": {
+    "javascript-editor": "~0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Alex Durgin",
+  "license": "BSD"
+}

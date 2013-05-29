@@ -1,0 +1,18 @@
+{
+  "name": "Server",
+  "version": "0.0.0",
+  "description": "CS558 server",
+  "main": "server.js",
+  "dependencies": {
+    "javascript-editor": "~0.1.0",
+    "xmlhttprequest": "~1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD"
+}
