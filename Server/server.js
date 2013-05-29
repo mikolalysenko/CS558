@@ -1,5 +1,4 @@
 var http = require("http"); 
-var url = require("url");
 var vm = require("vm");
 
 var reqCb = function(req, res)
@@ -73,4 +72,4 @@ var reqCb = function(req, res)
 }
 
 var server = http.createServer(reqCb);
-server.listen(8080, "128.104.191.51");
+server.listen(8080);
