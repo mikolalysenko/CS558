@@ -73,6 +73,4 @@ var reqCb = function(req, res)
 }
 
 var server = http.createServer(reqCb);
-//server.listen(8080, "127.0.0.1");
-//server.listen(8080, "25.208.110.218");
 server.listen(8080, "128.104.191.51");
