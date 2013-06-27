@@ -3,6 +3,7 @@
 Course materials for CS558
 
 
-# Stuff to do
+## Some derivations
 
-* Add items here
+* [Dot product cosine formula](https://github.com/mikolalysenko/dot-product-cosine-rule)
+* [Affine subspace distance](https://github.com/mikolalysenko/affine-subspace-distance)
